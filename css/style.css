@@ -1349,6 +1349,7 @@ background: #f9f9f9;}
 .banner-2{background: url(../images/process/header.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
 .banner-3{background: url(../images/about/header.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
 .banner-4{background: url(../images/contact/header.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
+.banner-20{background: url(../images/learnmore/header.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
 .service{overflow:hidden;}
 .service .common-heading h2 {  margin-bottom: 20px;}
 .cta-area{
